@@ -6,6 +6,9 @@
 #property indicator_plots 0
 #property copyright "Wayre Solutions"
 #property version   "1.01"
+#property indicator_buffers 1
+#property indicator_plots   1
+#property indicator_type1   DRAW_NONE
 
 #include "Context7_Logic.mqh"
 
